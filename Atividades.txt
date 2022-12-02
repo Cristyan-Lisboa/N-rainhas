@@ -1,0 +1,19 @@
+Sugestões
+
+* Ver temas de aplicação da busca tabu: 
+ - CV, n-rainhas, identificador de mensagens, alocação de projetos, labirinto, coloração de grafos
+* Ver com o professor na sexta sobre a dupla!! Se sim, dividir as tarefas.
+* Site bom: https://docs.optaplanner.org/6.3.0.Beta1/optaplanner-docs/html/ch03.html
+
+------------------------------------------------ N-rainhas ------------------------------------------------ 
+* Acho que o melhor é das n-rainhas:                                                              OK
+* Como contabilizar a quantidade de ataques corretamente?                                         OK 
+* Como gerar outros tipos de vizinhança?                                                          OK
+* Como ter outros critérios de aspiração?                                                         OK
+* Como exibir adequadamente os resultados? Interface gráfica com dinâmica.                        Não deu
+* Começar a escrever o artigo logo.                                                               Não deu
+* Começar a apresentação logo.                                                                    OK
+* Implementar mecanismo de intensificação.                                                        Não deu
+* Implementar mecanismo de diversificação. Se finc não muda por x iterações ir para outra região. OK
+* Certificar de que o código básico está funcionando igual ao do professor.                       OK
+* Video Youtube com explicação detalhada do código e past no github.                              OK
